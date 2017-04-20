@@ -1,0 +1,8 @@
+@import '~styles/main';
+
+.container {
+    padding-top: rem-calc(50);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
